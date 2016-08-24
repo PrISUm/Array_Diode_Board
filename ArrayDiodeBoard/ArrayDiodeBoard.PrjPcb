@@ -56,7 +56,7 @@ GenerateClassCluster=0
 DocumentUniqueId=FSJIUEIQ
 
 [Document2]
-DocumentPath=ArrayDiodeBoard.PcbDoc
+DocumentPath=Q:\Electrical\Altium Files\Altium Parts Libraries\ArrayDiodeBoard.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
